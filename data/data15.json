@@ -1,0 +1,90 @@
+[
+  {
+    "image1":"imgs/product-8.jpg",
+    "image2":"imgs/product-7.jpg",
+    "product_link":"Juicy Couture Tricot Logo Stripe Jacket-1",
+    "price":"€9.90",
+    "intro":"<p>2 Freshen up your look with the Juicy Couture™ Tricot Logo Stripe Jacket.</p> \n <p>Polyester fabrication flaunts stripe and brand logo detail at sleeves.</p> \n <p>Stand collar.</p> \n <p>Front-zipper closure.</p> \n 100% polyester.",
+    "in_stock":"1 In Stock"
+  },
+  {
+    "image1":"imgs/product-5.jpg",
+    "image2":"imgs/product-5.jpg",
+    "product_link":"Juicy Couture Tricot Logo Stripe Jacket-2",
+    "price":"€18.90",
+    "intro":"<p>2 Freshen up your look with the Juicy Couture™ Tricot Logo Stripe Jacket.</p> \n <p>Polyester fabrication flaunts stripe and brand logo detail at sleeves.</p> \n <p>Stand collar.</p> \n <p>Front-zipper closure.</p> \n 100% polyester.",
+    "in_stock":"2 In Stock"
+  },
+  {
+    "image1":"imgs/product-20.jpg",
+    "image2":"imgs/product-19.jpg",
+    "product_link":"Juicy Couture Tricot Logo Stripe Jacket-3",
+    "price":"€18.90",
+    "intro":"<p>3 Freshen up your look with the Juicy Couture™ Tricot Logo Stripe Jacket.</p> \n <p>Polyester fabrication flaunts stripe and brand logo detail at sleeves.</p> \n <p>Stand collar.</p> \n <p>Front-zipper closure.</p> \n 100% polyester.",
+    "in_stock":"3 In Stock"
+  },
+  {
+    "image1": "imgs/product-18.jpg",
+    "image2": "imgs/product-18.jpg",
+    "product_link": "Juicy Couture Solid Sleeve Puffer Jacket",
+    "price": "€18.90",
+    "intro": "<p>Stay toasty with this Juicy Couture™ Solid Sleeve Puffer Jacket!</p> \n <p>Stand collar.</p> \n <p>Long sleeves.</p> \n <p>100% polyester;</p>'+\n    '<p>Lining: 100% polyester;</p> \n <p>Filling: 100% polyester.</p>",
+    "in_stock": "299 In Stock"
+  },
+  {
+    "image1": "imgs/product-22.jpg",
+    "image2": "imgs/product-23.jpg",
+    "product_link": "New Balance Fresh Foam Kaymin",
+    "price": "<del>€18.90</del> <span style='color: red;font-size: 12px'>€15.12</span>",
+    "intro": "<p>Increase your distance with the superior cushioning of the Fresh Foam Kaymin running shoe from New Balance®.</p> \n <p>Predecessor: None.</p> \n <p>Support Type: Neutral.</p> \n <p>Cushioning: High energizing cushioning.</p>",
+    "in_stock": "298 In stock"
+  },
+  {
+    "image1": "imgs/product-9.jpg",
+    "image2": "imgs/product-9.jpg",
+    "product_link": "Water And Wind Resistant Insulated Jacket",
+    "price": "€11.90",
+    "intro": "'<p>Stay ready for a change in weather with the IZOD® Water and Wind Resistant Insulated Jacket.</p>'+\n    '<p>Water-resistant jacket keeps you warm and dry.</p>'+\n    '<p>Stand collar features an attached hood.</p>'+\n    '<p>Front-zip closure.</p>'",
+    "in_stock": "291 In stock"
+  },
+  {
+    "image1": "imgs/product-17.jpg",
+    "image2": "imgs/product-16.jpg",
+    "product_link": "Trans-Weight Hooded Wind And Water Resistant Shell",
+    "price": "€11.90",
+    "intro": "'<p>Keep the elements away and warmth priority number one in this Nautica® Trans-Weight Hooded Wind and Water Resistant Shell.</p>'+\n    '<p>Hooded collar with a high collar for maximum coverage.</p>'+\n    '<p>Long sleeves with banded collars.</p>'+\n    '<p>Zip front closure.</p>'",
+    "in_stock": "299 In Stock"
+  },
+  {
+    "image1": "imgs/product-14.jpg",
+    "image2": "imgs/product-14.jpg",
+    "product_link": "Madden By Steve Madden Cale 6",
+    "price": "'<del>€19.90</del>'+' <span style='color: red;font-size: 12px'>€10.12</span>'",
+    "intro": "'<p>No one can deny your sleek style with these handsome Madden by Steve Madden® Cale 6 oxfords.</p>'+\n    '<p>Man-made upper features a plain toe.</p>'+\n    '<p>Lace-up closure.</p>'+\n    '<p>Man-made lining.</p>'",
+    "in_stock": "299 In Stock"
+  },
+  {
+    "image1": "imgs/product-22.jpg",
+    "image2": "imgs/product-15.jpg",
+    "product_link": "Calvin Klein Jeans Reflective Logo Full Zip",
+    "price": "€29.00",
+    "intro": "'<p>Calvin Klein® Jeans hoodie with reflective logo detailing at the sleeves.</p>'+\n    '<p>Sweatshirt crafted in a soft-knit fabric for superior comfort.</p>'+\n    '<p>Drawstring hood.</p>'+\n    '<p>Long sleeves.</p>'+\n    '<p>Full-zip front.</p>'",
+    "in_stock": "300 In Stock"
+  },
+  {
+    "image1": "imgs/product-6.jpg",
+    "image2": "imgs/product-6.jpg",
+    "product_link": "New Balance Arishi Sport V1",
+    "price": "€29.00",
+    "intro": "'<p>Break old records and make new goals in the New Balance® Arishi Sport v1.</p>'+\n    '<p>Predecessor: None.</p>'+\n    '<p>Support Type: Neutral.</p>'+\n    '<p>Cushioning: High energizing cushioning.</p>'",
+    "in_stock": "899 In Stock"
+  },
+  {
+    "image1": "imgs/product-4.jpg",
+    "image2": "imgs/product-3.jpg",
+    "product_link": "Brixton Patrol All Terrain Anorak Jacket",
+    "price": "€29.00",
+    "intro": "'<p>Whether you're exploring the woods or the city, the Brixton™ Patrol All Terrain Anorak Jacket has got you covered.</p>'+\n    '<p>Camo jacket crafted from 4.5 oz nylon ripstop with two-way stretch, and a water-repellent coating.</p>'+\n    '<p>Drawstring hood.</p>'",
+    "in_stock": "899 In Stock"
+  }
+]
